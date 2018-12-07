@@ -6,6 +6,12 @@
 
 ## Installation 
 
+### label node
+
+```
+kubectl label node/nodename rocketmq-operator=on
+
+```
 ### Create a namespace
 
 ```
